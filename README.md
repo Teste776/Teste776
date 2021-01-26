@@ -1,15 +1,16 @@
-### Hi there 👋
+<hr>
+<h1>Ola 👋</h1>
+
+<h3>Sou o Teste776 e gosto de programar e a minha linguagem preferida é python, moro no brasil em são paulo</h3> 
+<hr>
 
 
-**Teste776/Teste776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teste776t&langs_count=999">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Teste776&show_icons=true">
+</p>
+<br />
+</center>
+<hr>
